@@ -1,4 +1,4 @@
-# Eternal Trusts Protocol Architecture
+# Eternal Trusts dApp and Protocol Architecture
 ![Logo of Eternal Trusts](https://raw.githubusercontent.com/eternaltrusts/architecture/b9b712fcc09afcb7a51b33e16868ea8dffb17911/logo-darktext.png)
 
 Eternal Trusts is building the first trustee protocol for hybrid intelligence-based autonomous execution of long-term purposes. Eternal Trusts will be setting up all necessary infrastructure to enable fiduciary companies, multi family offices, trustees, and experts from different fields to join the ecosystem and create their own dApps, based on a powerful toolkit that will be provided for them, catered to executing important objectives of people for hundreds of years to come.
