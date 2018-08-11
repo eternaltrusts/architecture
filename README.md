@@ -65,6 +65,7 @@ This intricate, but easy-to-use system can give fiduciary companies, multi famil
 
 # Scenarios of possible protocol usage
 Main potential ways of integrating the protocol are described on the schemes below. Here’s what the abbreviations mean:
+
 __CLT__ — Client
 
 __dAPP__  —  Multi Family Office Application
@@ -77,7 +78,7 @@ __NNET__  —  Private Blockchain Nodes
 
 __ONET__  —  Network of Oracles
 
-**PT** — Trust Protector
+__PT__ — Trust Protector
 
 __O__ — Main Oracle 
 
