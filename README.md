@@ -200,3 +200,28 @@ Which yields:
 The minimal cost of all items needed to integrate the protocol into an existing business in need of the collective fiduciary management of client’s assets, is predicted to be at about $10 000 in fiat or tokens to set up the dApp and about $5 000 per month for technical support, consulting, and server maintenance. 
 
 To sum up, the cost of out-of-the-box protocol integration into corporate IT systems and business process is negligible. A company integrating the ET protocol receives a ready-made solution that includes exclusive rights to sell their dApp, choose private nodes or networks of oracles for their specific use cases, and the full functionality of the purpose execution flow for an affordable price. 
+
+## Roadmap
+
+### Completed Milestones
+
+* Completed R&D of the Ethereum ecosystem usability and picking the most optimal blockchain for creating decentralized “trusts”
+* Conducted experiments with oracle networks and reputation scoring (together with the developers of Forseti)
+* Research and experiments on NEO blockchain and Trinity token swaps to be integrated instead of Ethereum
+* Developed the “Purpose Execution Flow” as a framework replicating Discretionary Irrevocable Purpose Trusts
+* After a series of architecture reviews from top technical teams and multiple experiments, updated the concept towards building a hybrid blockchain with Hyperledger and EOS
+* Implemented the decentralized gate between private and public blockchains
+* Developed our positioning into a fiduciary protocol for dApps for trustees & multi family offices
+* Completed the smart contracts architecture design of the Protocol and for the dApps built on top of it
+* Received first UI/UX of the clients dashboard and the oracle personal cabinets
+* Engaged open source community with a series of open technical competitions
+
+### Next Milestones
+
+* First Dynasty Support algorithm (initially without the token)
+* Integrating private Hyperledger nodes
+* Deploying experimental smart contracts for the prototype and prototype-token circulation
+* Listing of the token prototype on a decentralized exchange and testing tokenomics
+* Finalizing, packaging and distributing the codebase for the private nodes and clients’ dApps
+* Assisting early adopters in the development of dApps on the Protocol
+* Promotion, sales, and marketing among banks and funds. Further organic development of business models on the ET Protocol
