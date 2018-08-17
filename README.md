@@ -167,7 +167,7 @@ The Eternal Trusts Token is a service token needed to execute the Purpose Execut
 
 Holding of the token is ensured by several mechanisms:
 * The ET Token is a reward token for participants on the platform. Those who are rewarded have to hold a predetermined share of their tokens from each reward to retain their voting/participation rights within the ET ecosystem and participate in the dApp’s purpose execution flows. 
-* The token is used as an intermediate currency for internal payments and conversions (e.g., from and to EOS). This can guarantee a holding period for few hours to several days.
+* The token is used as an intermediate currency for internal payments (from and to EOS). This can guarantee a token holding lag of few hours to several days.
 * The token is needed to initiate redistribution of stake and hold (hold demand is determined by the smart contract) for allowing the token holders to remain active on the platform or receive services, namely:
   * The token is necessary to create dApps with the protocol and set up networks of DAO directors, oracles, service providers, and maintain server infrastructure.
   * The token is used by clients of dApps to pay for the services of oracles and for the maintenance of private nodes. The token can either be automatically converted from the client’s assets by the smart contract/gained as a gift from an existing token holder, or purchased on exchanges/during the ET token sale.
