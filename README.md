@@ -160,3 +160,43 @@ _ET-Protocol Customized Case_
 
 An example of such use case is that of a traditional trust fund but with the goal of reducing the human factor, providing standardization and automation of business processes. This also leads to the reduction in the service costs and the minimization of risks when working with cryptocurrencies, in comparison with the traditional scheme of handing over keys or cryptowallets from their owners to the trusted party.
 
+
+## ET Tokenomics and Revenue models
+
+The Eternal Trusts Token is a service token needed to execute the Purpose Execution Flow for the dApps built on the ET Protocol. The revenue model for the ET Protocol is based on the expectation of the increase in the ET token demand. The strict rules for token holding specified by the protocol architecture and dApp founders are necessary to ensure there is always a scarcity limiting the supply of tokens in circulation. The expansion of the participant pools and the growth of the number of dApps made with the protocol are also primary factors that influence the growth of the token.
+
+Holding of the token is ensured by several mechanisms:
+* The ET Token is a reward token for participants on the platform. Those who are rewarded have to hold a predetermined share of their tokens from each reward to retain their voting/participation rights within the ET ecosystem and participate in the dApp’s purpose execution flows. 
+* The token is used as an intermediate currency for internal payments and conversions (e.g., from and to EOS). This can guarantee a holding period for few hours to several days.
+* The token is needed to initiate redistribution of stake and hold (hold demand is determined by the smart contract) for allowing the token holders to remain active on the platform or receive services, namely:
+  * The token is necessary to create dApps with the protocol and set up networks of DAO directors, oracles, service providers, and maintain server infrastructure.
+  * The token is used by clients of dApps to pay for the services of oracles and for the maintenance of private nodes. The token can either be automatically converted from the client’s assets by the smart contract/gained as a gift from an existing token holder, or purchased on exchanges/during the ET token sale.
+
+Another important model that can provide revenue within the protocol ecosystem is technical support, consulting, and deployment of infrastructure for specific clients. 
+
+Potential revenue that a fiduciary (or other) business can receive using the protocol is highly dependent on the business model chosen and the market strategy. Although it is not practical to predict potential revenues for the ET protocol users considering a wide variety of business models and commission structures they might use, it is uncomplicated to estimate costs of protocol integration in a basic case.
+
+### Cost analysis (basic corporate use case) 
+
+Let’s give an itemized estimate of the costs of integrating the protocol (costs are given in dollar equivalent of tokens): 
+* $1000 to build a dApp with the protocol toolkit.
+* $100 per each DAO director. 
+* $25 per each oracle. 
+* $10 per each node. 
+* $100 -- holding amount per each provider.
+
+A sample dApp case might consist of:
+* 100 customers
+* 10 DAO Directors
+* 15 oracles
+* 11 nodes
+* 10 contractors
+
+Which yields:
+- $3500 for starting up the whole infrastructure
+- $10 000 -- customization
+- $5 000 per month -- maintenance and technical support
+
+The minimal cost of all items needed to integrate the protocol into an existing business in need of the collective fiduciary management of client’s assets, is predicted to be at about $10 000 in fiat or tokens to set up the dApp and about $5 000 per month for technical support, consulting, and server maintenance. 
+
+To sum up, the cost of out-of-the-box protocol integration into corporate IT systems and business process is negligible. A company integrating the ET protocol receives a ready-made solution that includes exclusive rights to sell their dApp, choose private nodes or networks of oracles for their specific use cases, and the full functionality of the purpose execution flow for an affordable price. 
